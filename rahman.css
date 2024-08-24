@@ -1,0 +1,173 @@
+body {
+background-color: rgb(0, 0, 0);
+}
+
+h1 {
+  text-align:center;
+  font-size: 30;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  color:rgb(218, 246, 4)
+  }
+
+
+p1 div.absolute {
+  position: absolute;
+  top: 120px;
+  left: 500px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 25px;
+}
+
+p1.ex4 {display: block;}
+
+.glow-text {
+  font-size: 48px;
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+  animation: glow 3.5s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+  10% {
+      text-shadow: 0 0 10px rgb(11, 208, 230), 0 0 20px rgb(0, 255, 213) #00f;
+  }
+  90% {
+      text-shadow: 0 0 20px rgb(0, 204, 255), 0 0 30px rgb(0, 255, 213), 0 0 40px #00f;
+  }
+}
+
+p2 div.absolute {
+  position: absolute;
+  top: 350px;
+  left: 500px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 25px;
+}
+
+p3 div.absolute {
+  position: absolute;
+  top: 580px;
+  left: 488px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 25px;
+}
+
+p4 div.absolute {
+  position: absolute;
+  top: 120px;
+  left: 1100px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 25px;
+}
+
+p5 div.absolute {
+  position: absolute;
+  top: 350px;
+  left: 1120px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 25px;
+}
+
+pre1 div.absolute {
+  position: absolute;
+  top: 200px;
+  left: 150px;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 20px;
+  text-align: center;
+  color:rgb(0, 252, 109)
+}
+
+pre2 div.absolute {
+  position: absolute;
+  top: 425px;
+  left: 150px;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 20px;
+  text-align: center;
+  color: rgb(0, 252, 109)
+}
+
+pre3 div.absolute {
+  position: absolute;
+  top: 650px;
+  left: 150px;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 20px;
+  text-align: center;
+  color: rgb(0, 252, 109)
+}
+
+pre4 div.absolute {
+  position: absolute;
+  top: 200px;
+  left: 700px;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 20px;
+  text-align: center;
+  color: rgb(0, 252, 109)
+}
+
+pre5 div.absolute {
+  position: absolute;
+  top: 425px;
+  left: 700px;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 20px;
+  text-align: center;
+  color: rgb(0, 252, 109)
+}
+
+.image1 {
+  border: 1px solid #036096;
+  border-radius: 10px;
+  width: 250px;
+  height: 150px;
+  position: absolute;
+  top: 150px;
+  left: 400px;
+}
+
+.image2 {
+  border: 1px solid #036096;
+  border-radius: 10px;
+  width: 250px;
+  height: 150px;
+  position: absolute;
+  top: 380px;
+  left: 400px;
+}
+
+.image3 {
+  border: 1px solid #036096;
+  border-radius: 10px;
+  width: 250px;
+  height: 150px;
+  position: absolute;
+  top: 610px;
+  left: 400px;
+}
+
+.image4 {
+  border: 1px solid #036096;
+  border-radius: 10px;
+  width: 250px;
+  height: 150px;
+  position: absolute;
+  top: 150px;
+  left: 1025px;
+}
+
+.image5 {
+  border: 1px solid #036096;
+  border-radius: 10px;
+  width: 250px;
+  height: 150px;
+  position: absolute;
+  top: 380px;
+  left: 1025px;
+}
+
+
